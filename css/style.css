@@ -1,0 +1,17 @@
+.btn-customize {
+  color: #dc3545;
+  transition: 0.4s all ease-in-out;
+}
+.btn-customize:hover {
+  color: #fff;
+  background-color: #dc3545;
+}
+.circle-box {
+  width: 142px;
+  height: 142px;
+}
+.circle-img {
+  width: 142px;
+  height: 170px;
+  object-fit: cover contain;
+}
